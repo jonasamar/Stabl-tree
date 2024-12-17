@@ -1,0 +1,9 @@
+,Lasso,ElasticNet,RandomForest,XGBoost,STABL Lasso,STABL ElasticNet,STABL RandomForest,STABL XGBoost
+Lasso,1.0,0.24,0.0,0.0,0.048,0.336,0.033,0.163
+ElasticNet,0.22,1.0,0.0,0.0,0.043,0.372,0.027,0.175
+RandomForest,0.0,0.0,1.0,0.243,0.0,0.0,0.0,0.0
+XGBoost,0.0,0.0,0.228,1.0,0.0,0.0,0.0,0.0
+STABL Lasso,0.037,0.048,0.0,0.0,1.0,0.089,0.224,0.341
+STABL ElasticNet,0.349,0.378,0.0,0.0,0.075,1.0,0.029,0.228
+STABL RandomForest,0.026,0.029,0.0,0.0,0.25,0.038,1.0,0.12
+STABL XGBoost,0.156,0.16,0.0,0.0,0.348,0.208,0.116,1.0
